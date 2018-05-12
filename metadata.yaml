@@ -1,0 +1,26 @@
+_repo: With-a-Reservist-in-FranceA-Personal-Account-of-All-the-Engagements-in-Which-the-1St-Division__44511
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44511-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bolwell, F. A.
+    gutenberg_agent_id: '42792'
+    url: http://www.gutenberg.org/2009/agents/42792
+description: ''
+gutenberg_issued: '2013-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44511'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Campaigns -- France'
+- !lcc 'D501'
+title: "With a Reservist in France\r\nA Personal Account of All the Engagements in\
+  \ Which the 1st Division 1st Corps Took Part, viz.: Mons (Including the Retirement),\
+  \ the Marne, the Aisne, First Battle of Ypres, Neuve Chapelle, Festubert, and Loos"
+url: http://www.gutenberg.org/ebooks/44511
